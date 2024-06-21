@@ -1,6 +1,6 @@
 # my-nuxt-app
 
-En webapplikation byggd för ett arbetsprov. så som nuxt 3, vue, tailwind för att kunna jobba så effektivt som möjligt. För att effektivisera arbetet ytterligare och hålla användarupplevelsen har jag använt mig av DaisyUI som är ett komponent
+En webapplikation byggd för ett arbetsprov med nuxt 3, vue, tailwind för att kunna jobba så effektivt som möjligt. För att effektivisera arbetet ytterligare och hålla användarupplevelsen har jag använt mig av DaisyUI som är ett komponent
 
 ## Tekniker
 
